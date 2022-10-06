@@ -1,0 +1,15 @@
+this is whatsapp development contain the below options
+
+ chat 
+
+ vediocall
+
+audiocall
+
+send files
+
+send location
+
+send money
+
+send emoji
