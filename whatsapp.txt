@@ -16,3 +16,7 @@ send emoji code
 not visible last seen
 add status to be watched by others
 also add group vedio call
+
+send group messages upto 5 peoples
+
+set about info
