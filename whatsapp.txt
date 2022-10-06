@@ -1,15 +1,16 @@
 this is whatsapp development contain the below options
+author name: harikrishnan
+ chat code 
 
- chat 
+ vediocall code
 
- vediocall
+audiocall code
 
-audiocall
+send files code
 
-send files
+send location code
 
-send location
+send money code
 
-send money
-
-send emoji
+send emoji code
+not visible last seen
